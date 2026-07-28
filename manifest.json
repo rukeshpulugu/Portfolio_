@@ -1,0 +1,10 @@
+{
+  "name": "Rukesh Pulugu — Data Analyst",
+  "short_name": "Rukesh Pulugu",
+  "description": "Aspiring Data Analyst specializing in SQL, Excel and Power BI.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#2f6fed",
+  "icons": [{ "src": "images/rukesh.jpeg", "sizes": "512x512", "type": "image/jpeg" }]
+}
